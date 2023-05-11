@@ -3,7 +3,7 @@
 
 * [1. Intro](https://github.com/RosaMTR24/cloninterfazgoogle/blob/main/README.md#1-intro)
 * [1. Qué construí](https://github.com/RosaMTR24/cloninterfazgoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [1. Objetivo del proyecto](https://github.com/RosaMTR24/cloninterfazgoogle/edit/main/README.md#3-objetivo-del-proyecto)
+* [1. Objetivo del proyecto](https://github.com/RosaMTR24/cloninterfazgoogle/blob/main/README.md#3-objetivo-del-proyecto)
 
 ****
 
