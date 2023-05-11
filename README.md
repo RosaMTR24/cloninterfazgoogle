@@ -1,9 +1,9 @@
 # Clonacion de la interfaz Google creado con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO 💜.
 ## ÍNDICE
 
-* [1. Intro](#)
-* [1. Qué construí](#)
-* [1. Objetivo del proyecto](#)
+* [1. Intro](https://github.com/RosaMTR24/cloninterfazgoogle/blob/main/README.md#1-intro)
+* [1. Qué construí](https://github.com/RosaMTR24/cloninterfazgoogle/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [1. Objetivo del proyecto](https://github.com/RosaMTR24/cloninterfazgoogle/edit/main/README.md#3-objetivo-del-proyecto)
 
 ****
 
